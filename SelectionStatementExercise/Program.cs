@@ -41,7 +41,7 @@ namespace SelectionStatementExercise
                     break;
             
                 case "science":
-                    Console.WriteLine("math is cool!");
+                    Console.WriteLine("science is cool!");
                     break;
 
                 case "history":
